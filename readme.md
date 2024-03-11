@@ -1,2 +1,4 @@
-pip install tkinter
+<code>
+pip install tkinter 
 pip install tkPdfViewer
+</code>
